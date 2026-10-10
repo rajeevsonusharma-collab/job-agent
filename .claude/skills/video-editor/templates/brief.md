@@ -1,0 +1,15 @@
+# Edit Brief
+- **Project / title:**
+- **Goal (viewer should feel/know/do):**
+- **Audience:**
+- **Platform(s) & aspect ratio(s):**
+- **Target length / cutdowns:**
+- **Tone & references (links):**
+- **Hook idea / key message / CTA:**
+- **Source footage (fps, res, codec, VFR?):**
+- **Brand kit (logo, fonts, colors, lower-third style):**
+- **Music/SFX (licensed? mood/BPM):**
+- **Captions (languages, style):**
+- **Deadline / review rounds / approver:**
+- **Delivery spec (codec, loudness, naming):**
+- **Assumptions made (if brief was thin):**

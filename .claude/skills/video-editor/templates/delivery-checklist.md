@@ -1,0 +1,12 @@
+# Delivery Checklist
+- [ ] Picture locked; final graphics/captions proofread (names, brands, numbers)
+- [ ] Audio: dialogue clear, music ducked, loudness __ LUFS, TP ≤ -1 dBTP, mono-compat checked
+- [ ] Color: consistent, legal levels, correct color tags (bt709), no banding
+- [ ] Specs: __x__, __ fps CFR, yuv420p, H.264, AAC 48 kHz, faststart
+- [ ] `scripts/qc.sh` run: no black/freeze/silence flags
+- [ ] Watched end-to-end on phone + desktop (with and without sound)
+- [ ] Captions: SRT/VTT delivered + burned-in version if needed
+- [ ] Thumbnail/cover, title options, description, chapters, hashtags
+- [ ] Rights: music licenses, footage/stock, releases, disclosures (sponsor / synthetic media)
+- [ ] Files named `Project_Title_Platform_AR_Res_FPS_vNN_YYYYMMDD.ext`; checksum for large delivery
+- [ ] Project archived (project file, media manifest, fonts/LUTs/plugins list)
